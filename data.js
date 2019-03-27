@@ -1,4 +1,4 @@
-const data = [{
+const characters = [{
     name: 'Leticia Mel',
     occupation: 'Detective',
     isMainCharacter: true,
