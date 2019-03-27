@@ -4,7 +4,7 @@ const data = [{
     isMainCharacter: true,
     age: 30,
     gender: 'Transgender Woman',
-    bio: ['Private Detective for hire', 'Meets Mr. Malcolm on the subway', 
+    bio: ['also known as Mel', 'Private Detective for hire', 'Meets Mr. Malcolm on the subway', 
     'neice of famamous inspector Schlomo Piere',
     'inherited his vast estate after his death', 
     'tranitioned her gender from male to female',
